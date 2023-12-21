@@ -1,0 +1,5 @@
+# Created at 2023-12-19T14:38:41.734
+Boot Manifest-JAR contains absolute paths in classpath 'D:\amypo internship\react 1st day\interndetails\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
